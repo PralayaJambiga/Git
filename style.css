@@ -1,4 +1,14 @@
-h1{
-    background-color: black;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
 }
-]
+.container{
+    width:300px;
+    height:170Px;
+    border:2px solid black;
+    border-color:black;
+    margin:100px;
+    padding:30px ;
+}
